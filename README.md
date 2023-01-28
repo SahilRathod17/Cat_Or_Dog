@@ -2,7 +2,7 @@
 
 - For building this application Flutter toolkit is used.
 
-- I have used Dataseb available on kaggle for creating model on Teachable Machine.
+- I have used Dataset available on kaggle for creating model on Teachable Machine which is provided below.
 
 - The Dogs vs. Cats dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or cat.
 
