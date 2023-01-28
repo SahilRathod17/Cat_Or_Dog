@@ -29,5 +29,12 @@
  
  # Packges/Services Used
  
+ - [Flutter_ScreenUtil](https://pub.dev/packages/flutter_screenutil)
+ - [Flutter_TFLite](https://pub.dev/packages/flutter_tflite)
+ - [Image_Picker](https://pub.dev/packages/image_picker)
+ 
+ - [Dataset Used](https://www.kaggle.com/datasets/tongpython/cat-and-dog)
+ - [Teachable Machine](https://teachablemachine.withgoogle.com/)
+ 
  
 
