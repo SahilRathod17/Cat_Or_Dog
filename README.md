@@ -36,4 +36,4 @@
  - [Dataset Used](https://www.kaggle.com/datasets/tongpython/cat-and-dog)
  - [Teachable Machine](https://teachablemachine.withgoogle.com/)
  
- # [Linkedin](https://www.linkedin.com/in/sahil-rathod-59b897218/)
+ # [My Linkedin](https://www.linkedin.com/in/sahil-rathod-59b897218/)
