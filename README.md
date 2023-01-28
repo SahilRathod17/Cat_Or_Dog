@@ -1,16 +1,11 @@
-# cat_dog
+# Cat-Dog Classifier
 
-A new Flutter project.
+- For building this application Flutter toolkit is used.
 
-## Getting Started
+- I have used Dataseb available on kaggle for creating model on Teachable Machine.
 
-This project is a starting point for a Flutter application.
+- The Dogs vs. Cats dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or cat.
 
-A few resources to get you started if this is your first Flutter project:
+- Although the problem sounds simple, it was only effectively addressed in the last few years using deep learning convolutional neural networks.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Application allows user to take photo or choose image from gallery.
